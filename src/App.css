@@ -103,7 +103,7 @@ footer {
 }
 
 /* App.css */
-@media (max-width: 768px) {
+@media (max-width: 496px) {
   .App {
     padding: 0;
     overflow: hidden;
