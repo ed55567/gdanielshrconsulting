@@ -104,7 +104,7 @@ footer {
 
 @media (max-width: 768px) {
   .App {
-    padding: 0px;
+    padding: 20px;
   }
   .profile-photo {
     width: 300px;
