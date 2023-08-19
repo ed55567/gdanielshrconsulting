@@ -15,9 +15,7 @@
 
 
 .background-image {
-  /* Your background styling here */
   background-image: linear-gradient(rgba(51, 51, 51, 0.7), rgba(51, 51, 51, 0.9)), url('./background-photo.jpg');
-  /* ... other background properties */
 }
 
 .visually-hidden {
