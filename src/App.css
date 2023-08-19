@@ -122,8 +122,9 @@ footer {
   }
 
   nav ul li {
-    margin: auto; 
+    margin: 10px 0; 
     text-align: center;
+    left: -10px;
   }
 
   h1 {
