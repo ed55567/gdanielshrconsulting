@@ -42,8 +42,8 @@ function App() {
               <section id="contact">
                 <h2>Contact</h2>
                 <ul>
-                  <li>Email: info@hrconsulting.com</li>
-                  <li>Phone: 123-456-7890</li>
+                  <li>Email: <a href="mailto:gregdanielshr@gmail.com" style={{ color: '#ffffff' }}>gregdanielshr@gmail.com</a></li>
+                  {/* <li>Phone: 123-456-7890</li> */}
                 </ul>
               </section>
             </main>
