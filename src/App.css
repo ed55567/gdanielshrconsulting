@@ -104,6 +104,10 @@ footer {
 
 @media (max-width: 768px) {
   .App {
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     padding: 20px;
   }
   .profile-photo {
